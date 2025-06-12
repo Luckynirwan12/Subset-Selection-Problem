@@ -14,6 +14,7 @@
 
 -> Set={-12, -3, -6, 7, 2, -2, 6, 3, 9, -7, -5, -8, 1, 11, -9, -4}
 
-## Flow Chart of the Problem:
-![image](https://github.com/user-attachments/assets/55d50382-1e01-4108-a9b6-cc53c96c16f1)
+## Flow Chart of the Random Set Selection Problem:
+![image](https://github.com/user-attachments/assets/5a39dde9-944c-4834-b754-b87ad6539a62)
+
 
